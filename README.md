@@ -1,25 +1,25 @@
-### Hi, I'm German
+### German Voronin
 
-I build tools for working with AI coding agents, from San Francisco.
+Founding engineer at [Cori Clinical](https://www.cori-clinical.com). We use LLMs to write the
+documents that run clinical trials. I also ran [Aconite](https://www.aconite.io), a software studio
+in Lisbon.
 
-**Right now: [Plinth](https://github.com/mr0b0t0/plinth)**, an open-source home for the pages your agents make.
-Claude Code, Codex, Cursor or any MCP client publishes a report, dashboard or prototype with one
-tool call. You choose exactly who can open it, every version is kept, and the people you share
-with can leave comments that the agent picks up and acts on.
+Self-taught. Once turned down Microsoft to stay at a startup. I'd rather ship than talk about shipping.
 
-<a href="https://github.com/mr0b0t0/plinth"><img src="https://raw.githubusercontent.com/mr0b0t0/plinth/main/docs/screenshots/demo.gif" alt="Claude Code publishes a report to Plinth, a comment asks Codex for a table, and Codex publishes the next version and replies" width="720"></a>
+**Open source**
 
-[Take the one-minute tour](https://plinth.aconite.io/a/plinth-tour-wdxbs0kgb3) ·
-[Hosted instance](https://plinth.aconite.io) ·
-run it locally with `npx @mr0b0t0/plinth` · MIT
+- [plinth](https://github.com/mr0b0t0/plinth): somewhere for agents to put the pages they make,
+  and for you to decide who sees them. ([tour](https://plinth.aconite.io/a/plinth-tour-wdxbs0kgb3))
 
-#### Also
+**Previously**
 
-- **[linear-skills](https://github.com/mr0b0t0/linear-skills)**: Claude Code skills that take a Linear
-  issue from triage to implementation to QA, ending in a tested, merged pull request.
-- **[vibe-check](https://github.com/mr0b0t0/vibe-check)**: a spec-driven validator CLI that lints a spec,
-  starts the app, runs UI tests and code scans against it, and writes a report.
+- Kith for Mota-Engil: property management on web, iOS and Android
+- The Park House for Scott Brothers: private events
+- Syncorp: agentic workflows for the Portuguese energy sector and sales
+- zeOOs: Shopify MVP → marketplace on Amazon, Fnac, Worten and Kaufland, 7M+ SKUs
+- PubGENIUS: ad tech, HIPAA telehealth
 
-#### Elsewhere
+Most of my work lives in private repos.
 
-[LinkedIn](https://www.linkedin.com/in/germanvoronin) · [aconite.io](https://www.aconite.io)
+English · Русский · 中文 · Português · Español
+[linkedin](https://www.linkedin.com/in/germanvoronin) · [aconite.io](https://www.aconite.io)
